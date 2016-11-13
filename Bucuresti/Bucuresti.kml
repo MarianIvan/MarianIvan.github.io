@@ -2213,6 +2213,19 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Bulevardul_Ion_Mihalache.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/Bulevardul_Ion_Mihalache.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/Bulevardul_Ion_Mihalache.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.0667388889,44.4656916667,66
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Bulevardul_Regina_Maria_12.jpg</name>
       <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/Bulevardul_Regina_Maria_12.jpg" height="200" width="auto" /><br><br>]]></description>
       <ExtendedData>
@@ -2382,6 +2395,19 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Calea_Grivitei_nr._399.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/Calea_Grivitei_nr._399.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/Calea_Grivitei_nr._399.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.0493888889,44.4718638889,86
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Calea_Plevnei_(1).jpg</name>
       <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/Calea_Plevnei_(1).jpg" height="200" width="auto" /><br><br>]]></description>
       <ExtendedData>
@@ -2443,6 +2469,175 @@
       </ExtendedData>
       <Point>
         <coordinates>26.1554555556,44.4280972222,53
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG2349.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMAG2349.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMAG2349.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1049365833,44.4393958889,0
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG2351.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMAG2351.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMAG2351.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1048831667,44.4392852778,126
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG2353.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMAG2353.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMAG2353.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.10485075,44.4396667222,118
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG2354.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMAG2354.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMAG2354.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.104496,44.4408111389,0
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG2356.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMAG2356.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMAG2356.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1045188889,44.4409599167,0
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG2357.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMAG2357.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMAG2357.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1046867222,44.4412994167,97
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG2358.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMAG2358.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMAG2358.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1048126111,44.4419288611,77
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG2359.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMAG2359.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMAG2359.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1046867222,44.4430885278,119
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG2360.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMAG2360.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMAG2360.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1049327778,44.442852,64
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG2361.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMAG2361.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMAG2361.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1049327778,44.442852,64
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG2362.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMAG2362.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMAG2362.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1047096111,44.4430236667,58
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG2363.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMAG2363.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMAG2363.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1047401389,44.4428291111,78
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG2364.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMAG2364.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMAG2364.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1047401389,44.4428291111,78
 </coordinates>
       </Point>
     </Placemark>
@@ -3747,6 +3942,318 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>IMG_9798.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9798.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9798.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1739666667,44.4417944444,74
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9799.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9799.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9799.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1741666667,44.4417444444,69
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9800.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9800.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9800.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1741777778,44.4417416667,68
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9801.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9801.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9801.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1743805556,44.4417111111,69
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9803.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9803.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9803.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.17445,44.4417,71
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9808.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9808.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9808.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1770444444,44.4418722222,109
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9811.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9811.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9811.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1370722222,44.4221,81
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9812.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9812.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9812.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1369305556,44.4218722222,101
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9813.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9813.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9813.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1368444444,44.4218416667,100
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9814.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9814.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9814.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1368444444,44.4218416667,100
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9815.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9815.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9815.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1368638889,44.4217555556,97
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9816.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9816.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9816.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1368111111,44.4215194444,86
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9817.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9817.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9817.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1368111111,44.4215194444,86
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9818.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9818.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9818.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1368083333,44.4214055556,87
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9819.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9819.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9819.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1367861111,44.4212138889,86
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9820.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9820.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9820.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1367027778,44.4205972222,83
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9821.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9821.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9821.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1364305556,44.4202638889,77
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9822.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9822.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9822.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1364277778,44.4202583333,76
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9823.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9823.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9823.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1367638889,44.4199416667,72
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9824.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9824.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9824.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1367722222,44.4199111111,74
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9825.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9825.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9825.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1367861111,44.4199305556,74
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9826.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9826.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9826.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.1372722222,44.4202083333,74
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9827.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9827.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9827.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.137025,44.4206361111,69
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMG_9828.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/IMG_9828.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/IMG_9828.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.137025,44.4206361111,69
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>int._Platanului_(1).jpg</name>
       <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/int._Platanului_(1).jpg" height="200" width="auto" /><br><br>]]></description>
       <ExtendedData>
@@ -4657,6 +5164,19 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Str._Costache_Sibiceanu_4-4A.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/Str._Costache_Sibiceanu_4-4A.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/Str._Costache_Sibiceanu_4-4A.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.0691388889,44.4605611111,103
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>str._Gh._Lazar_(1).jpg</name>
       <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/str._Gh._Lazar_(1).jpg" height="200" width="auto" /><br><br>]]></description>
       <ExtendedData>
@@ -5190,6 +5710,32 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>str._Sfanta_Maria_2-42A.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/str._Sfanta_Maria_2-42A.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/str._Sfanta_Maria_2-42A.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.06925,44.4605472222,94
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Str._Sfanta_Maria_2-42A_(2).jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/Str._Sfanta_Maria_2-42A_(2).jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/Str._Sfanta_Maria_2-42A_(2).jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.0691861111,44.4605055556,89
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>str._Spiru_Haret.jpg</name>
       <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/str._Spiru_Haret.jpg" height="200" width="auto" /><br><br>]]></description>
       <ExtendedData>
@@ -5225,6 +5771,32 @@
       </ExtendedData>
       <Point>
         <coordinates>26.0844444444,44.4358333333,108
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Str._Triumfului,_4-14.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/Str._Triumfului,_4-14.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/Str._Triumfului,_4-14.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.0406722222,44.4828805556,91
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Str._Triumfului.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/Str._Triumfului.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/Str._Triumfului.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.0406694444,44.4828805556,90
 </coordinates>
       </Point>
     </Placemark>
