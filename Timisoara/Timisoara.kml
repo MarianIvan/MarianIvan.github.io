@@ -80,5 +80,96 @@
 </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>IMAG0690.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/IMAG0690.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/IMAG0690.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2409744167,45.7485580278,154
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG0691.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/IMAG0691.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/IMAG0691.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2409534444,45.7485809167,156
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG0692.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/IMAG0692.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/IMAG0692.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2247619444,45.7481651111,125
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG0693.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/IMAG0693.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/IMAG0693.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2232723056,45.74837875,135
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG0695.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/IMAG0695.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/IMAG0695.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.22115325,45.7537078611,135
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG0698.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/IMAG0698.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/IMAG0698.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.228302,45.7592773333,149
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG0702.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/IMAG0702.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/IMAG0702.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2320060556,45.7558326667,167
+</coordinates>
+      </Point>
+    </Placemark>
  </Document>
 </kml>
