@@ -3,6 +3,370 @@
   <Document>
     <name>Geotagged Photos</name>
     <Placemark>
+      <name>Bulevardul_Erorile_de_la_Tisa_-_Timisoara_-_(pista_de_biciclete_ocupata_in_totalitate).jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Bulevardul_Erorile_de_la_Tisa_-_Timisoara_-_(pista_de_biciclete_ocupata_in_totalitate).jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Bulevardul_Erorile_de_la_Tisa_-_Timisoara_-_(pista_de_biciclete_ocupata_in_totalitate).jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2385663056,45.7462840556,219
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bulevardul_Erorile_de_la_Tisa_-_Timisoara_-_(pista_de_biciclete_ocupata_in_totalitate)_02.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Bulevardul_Erorile_de_la_Tisa_-_Timisoara_-_(pista_de_biciclete_ocupata_in_totalitate)_02.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Bulevardul_Erorile_de_la_Tisa_-_Timisoara_-_(pista_de_biciclete_ocupata_in_totalitate)_02.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2385685833,45.7462019722,181
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bulevardul_Erorile_de_la_Tisa_-_Timisoara_-_(pista_de_biciclete_ocupata_in_totalitate)_03.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Bulevardul_Erorile_de_la_Tisa_-_Timisoara_-_(pista_de_biciclete_ocupata_in_totalitate)_03.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Bulevardul_Erorile_de_la_Tisa_-_Timisoara_-_(pista_de_biciclete_ocupata_in_totalitate)_03.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2385627222,45.746199,174
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bulevardul_Erorile_de_la_Tisa_-_Timisoara_-_(pista_de_biciclete_ocupata_in_totalitate)_04.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Bulevardul_Erorile_de_la_Tisa_-_Timisoara_-_(pista_de_biciclete_ocupata_in_totalitate)_04.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Bulevardul_Erorile_de_la_Tisa_-_Timisoara_-_(pista_de_biciclete_ocupata_in_totalitate)_04.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2384761944,45.7461809167,149
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bulevardul_Republicii_(chiar_in_centrul_orasului_fara_probleme)_-_Timisoara.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Bulevardul_Republicii_(chiar_in_centrul_orasului_fara_probleme)_-_Timisoara.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Bulevardul_Republicii_(chiar_in_centrul_orasului_fara_probleme)_-_Timisoara.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2255806667,45.7538100556,121
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bulevardul_Republicii_-_Timisoara_01.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Bulevardul_Republicii_-_Timisoara_01.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Bulevardul_Republicii_-_Timisoara_01.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2093153333,45.7507274167,136
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Aradului_-_Timisoara_-_01.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Aradului_-_Timisoara_-_01.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Aradului_-_Timisoara_-_01.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2252482222,45.7645814167,154
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Aradului_-_Timisoara_-_02.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Aradului_-_Timisoara_-_02.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Aradului_-_Timisoara_-_02.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2250166944,45.7663297222,147
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Aradului_-_Timisoara_-_03.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Aradului_-_Timisoara_-_03.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Aradului_-_Timisoara_-_03.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2249037778,45.7665535,136
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Aradului_-_Timisoara_-_04.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Aradului_-_Timisoara_-_04.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Aradului_-_Timisoara_-_04.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2248053056,45.7668118056,133
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Aradului_-_Timisoara_-_05.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Aradului_-_Timisoara_-_05.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Aradului_-_Timisoara_-_05.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2240163889,45.7682895833,142
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Aradului_-_Timisoara_-_06.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Aradului_-_Timisoara_-_06.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Aradului_-_Timisoara_-_06.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2227855556,45.7715702778,147
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Aradului_-_Timisoara_08.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Aradului_-_Timisoara_08.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Aradului_-_Timisoara_08.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2251502222,45.7645898889,167
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Aradului_-_Timisoara_11.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Aradului_-_Timisoara_11.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Aradului_-_Timisoara_11.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2238432778,45.7655264167,135
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Sever_Bocu_-_Timisoara_01.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Sever_Bocu_-_Timisoara_01.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Sever_Bocu_-_Timisoara_01.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2259375556,45.7656543333,143
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Torontalui_-_Timisoara_09-01.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Torontalui_-_Timisoara_09-01.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Torontalui_-_Timisoara_09-01.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2243977222,45.76507625,149
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Torontalului_-_colt_cu_Calea_Aradului_-_Timisoara.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Torontalului_-_colt_cu_Calea_Aradului_-_Timisoara.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Torontalului_-_colt_cu_Calea_Aradului_-_Timisoara.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2250375833,45.7645939444,118
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Torontalului_-_Timisoara_(trotuar_ingust_ocupat_in_totalitate)_01.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_(trotuar_ingust_ocupat_in_totalitate)_01.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_(trotuar_ingust_ocupat_in_totalitate)_01.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2217644722,45.7671258889,113
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Torontalului_-_Timisoara_-_01.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_-_01.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_-_01.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2246703333,45.7642984444,182
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Torontalului_-_Timisoara_-_02.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_-_02.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_-_02.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2246703333,45.7642984444,182
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Torontalului_-_Timisoara_03.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_03.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_03.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2218731389,45.76739375,140
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Torontalului_-_Timisoara_06.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_06.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_06.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2227463889,45.7666567778,147
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Torontalului_-_Timisoara_07_(dupa_o_zi).jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_07_(dupa_o_zi).jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_07_(dupa_o_zi).jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2224414444,45.7669543333,132
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Torontalului_-_Timisoara_08.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_08.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_08.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2183938056,45.7710256111,143
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Torontalului_-_Timisoara_08_(dupa_o_zi_fara_probleme).jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_08_(dupa_o_zi_fara_probleme).jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_08_(dupa_o_zi_fara_probleme).jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2228036389,45.7667365278,130
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Torontalului_-_Timisoara_09.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_09.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_09.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2377166389,45.7452781667,142
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Torontalului_-_Timisoara_11.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_11.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_11.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2190805556,45.7701869722,167
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calea_Torontalului_-_Timisoara_12.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_12.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Calea_Torontalului_-_Timisoara_12.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2184394167,45.7709914444,172
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>IMAG0676.jpg</name>
       <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/IMAG0676.jpg" height="200" width="auto" /><br><br>]]></description>
       <ExtendedData>
@@ -168,6 +532,214 @@
       </ExtendedData>
       <Point>
         <coordinates>21.2320060556,45.7558326667,167
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>In_centru_orasului_langa_Opera.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/In_centru_orasului_langa_Opera.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/In_centru_orasului_langa_Opera.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2264385278,45.7536298056,162
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Piata_Marasti_-_Timisoara_01.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Piata_Marasti_-_Timisoara_01.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Piata_Marasti_-_Timisoara_01.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2281218611,45.7590740556,150
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Piata_Marasti_-_Timisoara_02.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Piata_Marasti_-_Timisoara_02.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Piata_Marasti_-_Timisoara_02.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2285081111,45.7592370833,132
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Str._Dej_-_Timisoara_-_01.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Str._Dej_-_Timisoara_-_01.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Str._Dej_-_Timisoara_-_01.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2179783056,45.7745889722,158
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Str._Dej_-_Timisoara_-_02.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Str._Dej_-_Timisoara_-_02.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Str._Dej_-_Timisoara_-_02.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2173796111,45.7729716111,141
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Str._Diana_-_Timisoara01.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Str._Diana_-_Timisoara01.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Str._Diana_-_Timisoara01.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2377166389,45.7452781667,142
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Str._Liege_-_Timisoara_-_01.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Str._Liege_-_Timisoara_-_01.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Str._Liege_-_Timisoara_-_01.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2171412222,45.7727997222,174
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Str._Linistei_-_Timisoara.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Str._Linistei_-_Timisoara.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Str._Linistei_-_Timisoara.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.22220725,45.7749623611,151
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Str._Linistei_-_Timisoara_01.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Str._Linistei_-_Timisoara_01.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Str._Linistei_-_Timisoara_01.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2217553333,45.7749020278,137
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Str._Linistei_-_Timisoara_5.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Str._Linistei_-_Timisoara_5.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Str._Linistei_-_Timisoara_5.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2218510833,45.7748158333,143
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Str._Marti_Dan_Carpin_-_Timisoara.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Str._Marti_Dan_Carpin_-_Timisoara.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Str._Marti_Dan_Carpin_-_Timisoara.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2221655833,45.77483775,145
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Str._Miresei_-_Timisoara_01.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Str._Miresei_-_Timisoara_01.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Str._Miresei_-_Timisoara_01.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2204575278,45.7690594444,158
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Str._Orsova_-_Timisoara.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Str._Orsova_-_Timisoara.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Str._Orsova_-_Timisoara.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2165876944,45.7739819167,152
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Str_Academician_Remus_Radulet_-_Timisoara_-_01.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Str_Academician_Remus_Radulet_-_Timisoara_-_01.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Str_Academician_Remus_Radulet_-_Timisoara_-_01.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2227633889,45.7750268611,154
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Str_Dej_-_Timisoara_-_06.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Str_Dej_-_Timisoara_-_06.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Str_Dej_-_Timisoara_-_06.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.21818675,45.7741698056,130
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Str_Timis_-_Timisoara_-_01.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/Str_Timis_-_Timisoara_-_01.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/Str_Timis_-_Timisoara_-_01.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2240976944,45.7683031667,132
 </coordinates>
       </Point>
     </Placemark>

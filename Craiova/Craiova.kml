@@ -3,6 +3,71 @@
   <Document>
     <name>Geotagged Photos</name>
     <Placemark>
+      <name>BvdOltenia_131847.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Craiova/BvdOltenia_131847.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Craiova/BvdOltenia_131847.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>23.7833333333,44.3358333333,180
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BvdOltenia_131855.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Craiova/BvdOltenia_131855.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Craiova/BvdOltenia_131855.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>23.7833333333,44.3358333333,180
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BvdOltenia_131924.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Craiova/BvdOltenia_131924.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Craiova/BvdOltenia_131924.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>23.7833333333,44.3355555556,0
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BvdOltenia_131959_LI.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Craiova/BvdOltenia_131959_LI.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Craiova/BvdOltenia_131959_LI.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>23.7836111111,44.3361111111,0
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BvdOltenia_132033_LI.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Craiova/BvdOltenia_132033_LI.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Craiova/BvdOltenia_132033_LI.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>23.7838888889,44.3363888889,0
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Elena__Farago2.jpg</name>
       <description><![CDATA[<img src="http://marianivan.github.io/Craiova/Elena__Farago2.jpg" height="200" width="auto" /><br><br>]]></description>
       <ExtendedData>

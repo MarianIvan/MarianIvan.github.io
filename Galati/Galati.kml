@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Geotagged Photos</name>
+    <Placemark>
+      <name>20161117_145507.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161117_145507.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161117_145507.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0163888889,45.4186111111,90
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20161117_145559.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161117_145559.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161117_145559.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0163888889,45.4186111111,90
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20161117_145603.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161117_145603.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161117_145603.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0163888889,45.4186111111,90
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20161117_145832.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161117_145832.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161117_145832.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0133333333,45.4172222222,98
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20161117_145929.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161117_145929.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161117_145929.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0136111111,45.4169444444,90
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20161117_150050.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161117_150050.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161117_150050.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0133333333,45.4169444444,108
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20161117_150120.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161117_150120.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161117_150120.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0119444444,45.4166666667,82
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20161117_150142.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161117_150142.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161117_150142.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0119444444,45.4166666667,82
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20161117_150212.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161117_150212.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161117_150212.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0119444444,45.4166666667,82
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20161117_150233.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161117_150233.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161117_150233.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0119444444,45.4166666667,82
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20161117_150336.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161117_150336.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161117_150336.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0108333333,45.4161111111,82
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20161117_150406.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161117_150406.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161117_150406.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0108333333,45.4161111111,82
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20161118_160208.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161118_160208.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161118_160208.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0125,45.4188888889,106
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20161118_160242.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161118_160242.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161118_160242.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0125,45.4188888889,106
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20161118_160417.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161118_160417.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161118_160417.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0105555556,45.4177777778,93
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20161118_160456.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161118_160456.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161118_160456.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0105555556,45.4177777778,93
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20161118_160525.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161118_160525.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161118_160525.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0105555556,45.4177777778,93
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>20161118_160620.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Galati/20161118_160620.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Galati/20161118_160620.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>28.0097222222,45.4172222222,128
+</coordinates>
+      </Point>
+    </Placemark>
+ </Document>
+</kml>

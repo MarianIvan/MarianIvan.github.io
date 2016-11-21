@@ -7855,6 +7855,19 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Strada_Ileana_Cosanzeana_(1).jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/Strada_Ileana_Cosanzeana_(1).jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Bucuresti/Strada_Ileana_Cosanzeana_(1).jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.0683333333,44.4119444444,152
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Strada_Lujerului_2.jpg</name>
       <description><![CDATA[<img src="http://marianivan.github.io/Bucuresti/Strada_Lujerului_2.jpg" height="200" width="auto" /><br><br>]]></description>
       <ExtendedData>
