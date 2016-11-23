@@ -536,6 +536,58 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>IMAG0720.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/IMAG0720.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/IMAG0720.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2296390278,45.73862075,137
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG0722.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/IMAG0722.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/IMAG0722.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2315501944,45.73677825,126
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG0724.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/IMAG0724.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/IMAG0724.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2045173611,45.7253799167,126
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IMAG0725.jpg</name>
+      <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/IMAG0725.jpg" height="200" width="auto" /><br><br>]]></description>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>http://marianivan.github.io/Timisoara/IMAG0725.jpg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>21.2234802222,45.7538528333,156
+</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>In_centru_orasului_langa_Opera.jpg</name>
       <description><![CDATA[<img src="http://marianivan.github.io/Timisoara/In_centru_orasului_langa_Opera.jpg" height="200" width="auto" /><br><br>]]></description>
       <ExtendedData>
